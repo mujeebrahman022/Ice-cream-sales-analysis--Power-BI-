@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ice Cream Sales Dashboard</title>
 </head>
 <body>
     <h1>Ice Cream Sales Dashboard</h1>
@@ -17,8 +16,10 @@
     </ul>
 
 <h2>Video Demonstration</h2>
-    <p>Click the link below to watch the video demonstration of the Ice Cream Sales Dashboard:</p>
-    <a href="https://drive.google.com/file/d/1zVq7TRIOQT9ay_0MNOYjP-__oBeEMHDK/view?usp=sharing" target="_blank">Watch the Ice Cream Sales Dashboard Video</a>
+    <video width="100%" height="auto" controls autoplay>
+        <source src="" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
 
 <h2>Repository Contents</h2>
     <ul>
