@@ -17,7 +17,7 @@
 
 <h2>Video Demonstration</h2>
     <video width="100%" height="auto" controls autoplay>
-        <source src="" type="video/mp4">
+        <source src="https://github.com/mujeebrahman022/project-vedios/ice cream sales analysis - Power BI.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 
