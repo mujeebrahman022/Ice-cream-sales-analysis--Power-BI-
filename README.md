@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ice Cream Sales Dashboard</title>
 </head>
 <body>
     <h1>Ice Cream Sales Dashboard</h1>
@@ -16,10 +17,7 @@
     </ul>
 
 <h2>Video Demonstration</h2>
-    <video width="100%" height="auto" controls autoplay>
-        <iframe title="vimeo-player" src="https://player.vimeo.com/video/1000233281?h=a042c14e2b" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
-        Your browser does not support the video tag.
-    </video>
+    <iframe title="vimeo-player" src="https://player.vimeo.com/video/1000233281?autoplay=1" width="100%" height="auto" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 <h2>Repository Contents</h2>
     <ul>
