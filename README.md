@@ -8,7 +8,7 @@ I've completed an insightful project analyzing ice cream sales data using Power 
 - Customer demographics and preferences
 
 ## Video Demonstration
-[Watch the Ice Cream Sales Dashboard Video](https://player.vimeo.com/video/1000233281?autoplay=1)
+[Watch the Ice Cream Sales Dashboard Video](https://drive.google.com/file/d/1zVq7TRIOQT9ay_0MNOYjP-__oBeEMHDK/view?usp=drive_link)
 
 ## Repository Contents
 - **Power BI Dashboard (.pbix file):** Contains the complete interactive dashboard.
