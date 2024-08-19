@@ -12,8 +12,22 @@ The dashboard features:
 You can view the dashboard in action in the video below, which demonstrates its features and functionalities.
 
 #### Video Demonstration
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ice Cream Sales Dashboard</title>
+</head>
+<body>
+    <h1>Ice Cream Sales Dashboard</h1>
+    <video width="100%" height="auto" controls autoplay>
+        <source src="https://drive.google.com/uc?export=download&id=1zVq7TRIOQT9ay_0MNOYjP-__oBeEMHDK" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</body>
+</html>
 
-[![Ice Cream Sales Dashboard Video](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](https://drive.google.com/file/d/1zVq7TRIOQT9ay_0MNOYjP-__oBeEMHDK/view?usp=sharing)
 
 #### Repository Contents
 
@@ -33,8 +47,4 @@ Feel free to contribute to this project by:
 - Providing feedback on the dashboard design and functionality.
 - Suggesting additional features or improvements.
 - Reporting any issues or bugs.
-
-#### License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
