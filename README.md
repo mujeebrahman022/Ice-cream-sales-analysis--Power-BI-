@@ -12,8 +12,8 @@ I've completed an insightful project analyzing ice cream sales data using Power 
 
 ## Repository Contents
 - **Power BI Dashboard (.pbix file):** Contains the complete interactive dashboard.
-- **Sales Data (.csv file):** The dataset used for analysis.
-- **About Dataset -Merge all datasets to use it for visualization
+- **Sales Data (csv files $ Excel files):** The dataset used for analysis.
+- **About Dataset** -Merge all datasets to use it for visualization.
 
 ## How to Use
 1. **Download the Repository:** Clone or download the repository to your local machine.
