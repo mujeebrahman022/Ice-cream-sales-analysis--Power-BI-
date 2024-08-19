@@ -12,6 +12,7 @@ The dashboard features:
 You can view the dashboard in action in the video below, which demonstrates its features and functionalities.
 
 #### Video Demonstration
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -21,10 +22,7 @@ You can view the dashboard in action in the video below, which demonstrates its 
 </head>
 <body>
     <h1>Ice Cream Sales Dashboard</h1>
-    <video width="100%" height="auto" controls autoplay>
-        <source src="https://drive.google.com/uc?export=download&id=1zVq7TRIOQT9ay_0MNOYjP-__oBeEMHDK" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
+    <iframe width="100%" height="auto" src="[https://www.youtube.com/embed/VIDEO_ID](https://drive.google.com/uc?export=download&id=1zVq7TRIOQT9ay_0MNOYjP-__oBeEMHDK)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </body>
 </html>
 
