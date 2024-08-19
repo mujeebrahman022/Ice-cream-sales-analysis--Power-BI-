@@ -17,7 +17,7 @@
 
 <h2>Video Demonstration</h2>
     <video width="100%" height="auto" controls autoplay>
-        <source src="https://github.com/mujeebrahman022/project-vedios/ice cream sales analysis - Power BI.mp4" type="video/mp4">
+        <iframe title="vimeo-player" src="https://player.vimeo.com/video/1000233281?h=a042c14e2b" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
         Your browser does not support the video tag.
     </video>
 
