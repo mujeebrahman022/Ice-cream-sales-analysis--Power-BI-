@@ -1,6 +1,6 @@
 # Ice Cream Sales Dashboard
 
-I've completed an insightful project analyzing ice cream sales data using Power BI. This project includes a visually engaging and interactive dashboard that provides detailed insights into various aspects of ice cream sales. [Powerbi link](https://app.powerbi.com/groups/me/reports/99a91f5f-62b7-419e-b899-6b3a656f777d/52f4f2ab10c050030881?experience=power-bi)
+I've completed an insightful project analyzing ice cream sales data using Power BI. This project includes a visually engaging and interactive dashboard that provides detailed insights into various aspects of ice cream sales. [Power-BI Dashboard link](https://app.powerbi.com/groups/me/reports/99a91f5f-62b7-419e-b899-6b3a656f777d/52f4f2ab10c050030881?experience=power-bi)
 
 ## Overview
 - Sales trends over time
